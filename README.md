@@ -125,6 +125,7 @@ This repository will be updated as I solve more problems.
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0507-perfect-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This repository will be updated as I solve more problems.
 | [0074-search-a-2d-matrix](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,10 +175,12 @@ This repository will be updated as I solve more problems.
 | [0013-roman-to-integer](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +203,7 @@ This repository will be updated as I solve more problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0070-climbing-stairs) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Memoization
 |  |
 | ------- |
@@ -244,4 +249,8 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
