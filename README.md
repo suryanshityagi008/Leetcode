@@ -97,6 +97,7 @@ This repository will be updated as I solve more problems.
 | [0125-valid-palindrome](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -137,11 +138,13 @@ This repository will be updated as I solve more problems.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -229,6 +232,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Manacher
 |  |
 | ------- |
