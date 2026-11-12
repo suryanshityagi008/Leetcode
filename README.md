@@ -153,6 +153,7 @@ This repository will be updated as I solve more problems.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Depth-First Search
