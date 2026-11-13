@@ -154,6 +154,7 @@ This repository will be updated as I solve more problems.
 | [1882-process-tasks-using-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Depth-First Search
@@ -197,12 +198,14 @@ This repository will be updated as I solve more problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0155-min-stack) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -284,4 +287,20 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
