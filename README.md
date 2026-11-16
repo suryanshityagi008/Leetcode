@@ -113,6 +113,7 @@ This repository will be updated as I solve more problems.
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0709-to-lower-case) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ This repository will be updated as I solve more problems.
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
