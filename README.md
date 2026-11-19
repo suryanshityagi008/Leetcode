@@ -159,6 +159,7 @@ This repository will be updated as I solve more problems.
 | [1559-detect-cycles-in-2d-grid](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -263,6 +264,7 @@ This repository will be updated as I solve more problems.
 | ------- |
 | [0242-valid-anagram](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0242-valid-anagram) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Manacher
 |  |
@@ -297,6 +299,7 @@ This repository will be updated as I solve more problems.
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Segment Tree
 |  |
