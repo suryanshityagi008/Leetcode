@@ -114,6 +114,7 @@ This repository will be updated as I solve more problems.
 | [0344-reverse-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0709-to-lower-case) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
