@@ -132,6 +132,7 @@ This repository will be updated as I solve more problems.
 | [0367-valid-perfect-square](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0507-perfect-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -155,6 +156,7 @@ This repository will be updated as I solve more problems.
 | [0001-two-sum](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -252,6 +254,7 @@ This repository will be updated as I solve more problems.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -328,10 +331,15 @@ This repository will be updated as I solve more problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/suryanshityagi008-blip/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
